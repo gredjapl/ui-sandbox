@@ -1,0 +1,1 @@
+ob verify scratch file
